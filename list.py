@@ -1,5 +1,3 @@
-#Aluna: Ariadne Mendes Matrícula: 2472190021
-
 def principal():
  
      while True:
@@ -63,4 +61,5 @@ def ordenar_Decrescente(lista):
 
 
 if __name__ == "__main__":
+
     principal()
